@@ -5,6 +5,4 @@ This is a collection of live documents and content will be updated as needed.
 
 ## Table of Contents
 
-[TODO] [Part 0 - Introduction]()
-
-[TODO] [Part 1 - Getting Started]()
+[TODO] [Part 0 - Introduction and Getting Started](part0/README.md)
