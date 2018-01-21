@@ -5,5 +5,3 @@
 ## Programming Challenges
 
 ## Useful Libraries
-
-## Other Resources
