@@ -7,4 +7,4 @@ This is a collection of live documents and content will be updated as needed.
 
 [Part 0 - Introduction and Getting Started](part0/README.md)
 
-[Appendix A](appendixA/README.md)
+[Appendix A - Tutorials, Challenges, Useful Libraries](appendixA/README.md)
