@@ -16,3 +16,14 @@ Rather than suggest a language or two without providing any reasoning, I'd like 
 * Community Support - Some projects or communities have a tendency to lean towards a specific languages. For example, many of the infosec community projects use Python or Ruby. IT and DevOps have started to use a lot of Go. You're not required to use the same language as your peers, but depending on your goal and other programs you might be leveraging, it might make life easier. When teams are all "speaking the same language" it makes coordination easier as well. This might be a great chance to pick up another programming language though!
 
 * System Support - Another important thing to consider is whether the systems you’ll be running the code on supports the language you’re using. For example, many Linux systems support both Python2.7 and Python3, but some systems will default to a particular version. Some systems may require extra software to execute the code you have written, so make sure you have the permissions (and ability) to install supporting software.
+
+### Programming environment configuration - Python and Go
+Python and Go are the two languages I enjoy the most, so I’ll be using these in my examples moving forward. Below are links to environment setup guides for each of these languages.
+
+[Python Environment Setup](python_setup.md)
+
+[Go Environment Setup](go_setup.md)
+
+### Workflow with Version Control - Git
+
+### Examples of Automation and Programming
