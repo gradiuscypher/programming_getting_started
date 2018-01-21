@@ -6,3 +6,5 @@ This is a collection of live documents and content will be updated as needed.
 ## Table of Contents
 
 [Part 0 - Introduction and Getting Started](part0/README.md)
+
+[Appendix A](appendixA/README.md)
