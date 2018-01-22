@@ -16,7 +16,7 @@ Rather than suggest a language or two without providing any reasoning, I'd like 
 ### Programming development environment configuration - Python and Go
 Python and Go are the two languages I enjoy the most, so I’ll be using these in my examples moving forward. Below are links to environment setup guides for each of these languages.
 
-[Python Development Environment Setup](python_setup.md)
+[Python Development Environment Setup](python_setup_ubuntu.md)
 
 [Go Development Environment Setup](go_setup.md)
 
