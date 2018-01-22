@@ -6,7 +6,7 @@ The goal for this documentation is to help introduce people who are interested i
 
 Most importantly, stay focused on continued learning. Keeping your skills sharp by programming frequently and always looking for new things to automate. Don't get discouraged when something doesn't work perfectly, coming back to a project later may expose a new way to solve a problem.
 
-This document is only the start. After reading this, we'll go step by step solving some problems and providing examples along the way. Beyond that, every step will be a building block to help you start solving your own problems in with code.
+This document is only the start. After reading this, we'll go step by step solving some problems and providing examples along the way. Every step will be a building block to help you start solving your own problems with code.
 
 ## Getting Started
 ### How to pick a programming language - Right tool for the job
