@@ -2,9 +2,11 @@
 ## Introduction
 Programming and automation are great tools for any IT or security engineer (or anyone wanting to finish their tasks automagically!). They allow you to build new tools or to combine already existing tools. These tools can improve and speed up already existing IT and security tasks. 
 
-The goal for this documentation is to help introduce people who are interested in learning more about programming and automation. I’m not looking to teach someone how to be a professional developer, but looking to help encourage and grow new hackers, tinkerers, and builders. I’m looking to provide the tools and direction to inspire curiosity and passion.
+The goal for this documentation is to help introduce people who are interested in learning more about programming and automation. I’m not looking to teach someone how to be a professional developer, but looking to help encourage and grow new hackers, tinkerers, and builders. I’m looking to provide the tools and direction to inspire curiosity and passion for programming.
 
 Most importantly, stay focused on continued learning. Keeping your skills sharp by programming frequently and always looking for new things to automate. Don't get discouraged when something doesn't work perfectly, coming back to a project later may expose a new way to solve a problem.
+
+This document is only the start. After reading this, we'll go step by step solving some problems and providing examples along the way. Beyond that, every step will be a building block to help you start solving your own problems in with code.
 
 ## Getting Started
 ### How to pick a programming language - Right tool for the job
@@ -16,12 +18,12 @@ Rather than suggest a language or two without providing any reasoning, I'd like 
 ### Programming development environment configuration - Python and Go
 Python and Go are the two languages I enjoy the most, so I’ll be using these in my examples moving forward. Below are links to environment setup guides for each of these languages.
 
-[Python Development Environment Setup - Ubuntu](python_setup_ubuntu.md)
+* [Python Development Environment Setup - Ubuntu](python_setup_ubuntu.md)
 
-[Go Development Environment Setup](go_setup.md)
+* [Go Development Environment Setup](go_setup.md)
 
 ### Workflow with Version Control - Git
-Using version control is one of the best ways to organize and manage your code.
+Using version control is one of the best ways to organize and manage your code. It also allows you to collaborate with others easily and effectively.
 
 #### Quick Workflow Summary
 Git is a tool that will help you manage every change made to your code. This is an example workflow:
@@ -33,6 +35,7 @@ Git is a tool that will help you manage every change made to your code. This is 
 
 #### Collaboration
 Using Git along with a remote upload site like Github, Gitlab, or an internal version control system makes it much easier to collaborate with others on your project. When working on the same project with others, Git provides the tools (pull, push, merge, pull requests, etc) to make sure that no one clobbers someone else's work (it will at least provide warnings of this happening - merge conflicts). It also provides repository branches so that features work can be done on individual branches and merged back into a master branch once they've been completed.
+
 Even for simple scripts, using Git for collaboration is invaluable. I suggest using it for any code or documentation you care about.
 
 #### Version control and source management
@@ -47,13 +50,13 @@ When you push your code to a remote repo, it serves as a remote backup. Just wit
 #### Other External Resources
 Linked below are some great resources for getting started with Git. Rather than duplicating information here, I’d suggest reading these write ups for a good place to get started.
 
-[Git - The simple guide](http://rogerdudler.github.io/git-guide/)
+* [Git - The simple guide](http://rogerdudler.github.io/git-guide/)
 
-[Github tutorial for beginners](https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners)
+* [Github tutorial for beginners](https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners)
 
-[Github Hello World](https://guides.github.com/activities/hello-world/)
+* [Github Hello World](https://guides.github.com/activities/hello-world/)
 
-[Git Basics](https://git-scm.com/book/en/v2/Getting-Started-Git-Basics)
+* [Git Basics](https://git-scm.com/book/en/v2/Getting-Started-Git-Basics)
 
 ### Examples of Automation and Programming
 Below are some projects and ideas of automation and programming. This should help brainstorm some ideas around what you could work on next.
