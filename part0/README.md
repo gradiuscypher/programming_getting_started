@@ -31,8 +31,6 @@ Git is a tool that will help you manage every change made to your code. This is 
 * After a few more merges into the master repo, you realize a change has created a terrible bug, so you git reset back to a known working commit and push to your remote repository. This reverts everything back to the target commit.
 * Add a few additional people to this workflow with everyone contributing and using branches properly, and you have a great team workflow!
 
-Detailed benefits:
-
 #### Collaboration
 Using Git along with a remote upload site like Github, Gitlab, or an internal version control system makes it much easier to collaborate with others on your project. When working on the same project with others, Git provides the tools (pull, push, merge, pull requests, etc) to make sure that no one clobbers someone else's work (it will at least provide warnings of this happening - merge conflicts). It also provides repository branches so that features work can be done on individual branches and merged back into a master branch once they've been completed.
 Even for simple scripts, using Git for collaboration is invaluable. I suggest using it for any code or documentation you care about.
