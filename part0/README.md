@@ -26,8 +26,7 @@ Python and Go are the two languages I enjoy the most, so I’ll be using these i
 ## Workflow with Version Control - Git
 Using version control is one of the best ways to organize and manage your code. It also allows you to collaborate with others easily and effectively.
 
-### Quick Workflow Summary
-Git is a tool that will help you manage every change made to your code. This is an example workflow:
+### Example Git Workflow
 * Start a new project, with a new git repo. Push the new repo to your remote repository (github, gitlab, etc).
 * Make some changes to the code, create a new commit along with a detailed commit message, push the commit to your remote repository.
 * Create a new branch for some experimental changes, determine whether they’re successful or not, and merge the branch or delete it.
