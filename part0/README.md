@@ -21,7 +21,7 @@ Python and Go are the two languages I enjoy the most, so I’ll be using these i
 
 * [Python Development Environment Setup - Ubuntu](python_setup_ubuntu.md)
 
-* [Go Development Environment Setup](go_setup.md)
+* [Go Development Environment Setup - Ubuntu](go_setup_ubuntu.md)
 
 ## Workflow with Version Control - Git
 Using version control is one of the best ways to organize and manage your code. It also allows you to collaborate with others easily and effectively.
