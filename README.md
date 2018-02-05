@@ -5,6 +5,8 @@ This is a collection of live documents and content will be updated as needed.
 
 ## Table of Contents
 
-[Part 0 - Introduction and Getting Started](part0/README.md)
+* [Part 0 - Introduction and Getting Started](part0/README.md)
+  * [Setting up a Python development environment - Ubuntu Linux](https://github.com/gradiuscypher/programming_getting_started/blob/master/part0/python_setup_ubuntu.md)
+  * [Setting up a Golang development environment - Ubuntu Linux](https://github.com/gradiuscypher/programming_getting_started/blob/master/part0/go_setup_ubuntu.md)
 
-[Appendix A - Tutorials, Challenges, Useful Libraries](appendixA/README.md)
+* [Appendix A - Other Tutorials, Challenges, and Useful Libraries](appendixA/README.md)
