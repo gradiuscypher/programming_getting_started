@@ -1,4 +1,4 @@
-# Part 0: Introduction
+# Part 0: Project Introduction
 Programming and automation are great tools for any IT or security engineer (or anyone wanting to finish their tasks automagically!). They allow you to build new tools or to combine already existing tools. These tools can improve and speed up already existing IT and security tasks.
 
 The goal for this documentation is to help introduce people who are interested in learning more about programming and automation. I’m not looking to teach someone how to be a professional developer, but looking to help encourage and grow new hackers, tinkerers, and builders. I’m looking to provide the tools and direction to inspire curiosity and passion for programming. Remember there's never only one way to solve a problem. I'll work to provide you with the tools to solve the problems you'll encounter. 
@@ -7,7 +7,7 @@ Most importantly, stay focused on continued learning. Keeping your skills sharp 
 
 This document is only the start. After reading this, we'll go step by step solving some problems and providing examples along the way. Every step will be a building block to help you start solving your own problems with code.
 
-# Part 0: Getting Started
+# Part 0: Programming Introduction
 ## How to pick a programming language - Right tool for the job
 Rather than suggest a language or two without providing any reasoning, I'd like to give a few ways to determine what the right language for the job might be.
 
