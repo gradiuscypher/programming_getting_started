@@ -1,5 +1,5 @@
 # Setting up your Python Development Environment - Ubuntu Linux
-## Introductions
+## Introduction
 Python is an interpreted programming language, which means any time we want to execute our Python scripts, we’ll be using the Python interpreter. Ubuntu comes with Python2.7 and Python3 installed by default. As of Ubuntu 16.04.3, Python2.7 is still the default interpreter. My suggestion would be to use Python3 for any new project moving forward. Many developers are writing code for Python3 which means you’ll likely find the most support with version 3 or higher.
 
 ## Python Virtual Environments
