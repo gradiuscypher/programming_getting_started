@@ -13,3 +13,5 @@ This is a collection of live documents and content will be updated as needed.
   * [Problem solving with programming: Example 1](part1/example1.md) [**TODO**]
 
 * [Appendix A - Other Tutorials, Challenges, and Useful Libraries](appendixA/README.md)
+
+* [Appendix B - Programming Building Blocks](appendixB/README.md)
