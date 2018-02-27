@@ -1,14 +1,21 @@
 # Appendix B - Building Blocks
 This appendix will be a collection of tutorials and user guides for programming language libraries, problem solving approaches, and general use cases that can be used in other other projects.
 
-## Python - Logging
+## General Building Blocks
+
+### Git Setup and Usage
 TODO
 
-## Python - Configuration Files
+## Python Building Blocks
+
+### Python - Logging
 TODO
 
-## Python - Elasticsearch
+### Python - Configuration Files
 TODO
 
-## Python - File Manipulation
+### Python - Elasticsearch
+TODO
+
+### Python - File Manipulation
 TODO
