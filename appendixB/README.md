@@ -9,7 +9,7 @@ This appendix will be a collection of tutorials and user guides for programming 
 ## Python Building Blocks
 
 ### Python - Logging
-TODO
+[Python Logging](python-logging.md) - Using the `logging` library to write logs to the console and to a file
 
 ### Python - Configuration Files
 TODO
