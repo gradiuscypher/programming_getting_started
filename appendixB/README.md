@@ -4,7 +4,7 @@ This appendix will be a collection of tutorials and user guides for programming 
 ## General Building Blocks
 
 ### Git Setup and Usage
-TODO
+[Git Setup and Usage](git-usage.md) - Simple examples of how to navigate Git.
 
 ## Python Building Blocks
 
