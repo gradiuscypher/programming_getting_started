@@ -7,3 +7,7 @@ Each of the follow examples will show my thought process behind solving a proble
 * The thought process on working with the data provided
 * The thought process around which libraries to use, if any
 * The thought process of how to present or store the data, if applicable
+
+## Examples
+* [Working with APIs and Python `requests`](working_with_apis.md)
+* [Building Custom Maltego Transforms](maltego_transforms.md)
