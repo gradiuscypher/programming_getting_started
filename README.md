@@ -11,8 +11,7 @@ This is a collection of live documents and content will be updated as needed.
   * [Setting up a Python development environment - Ubuntu Linux](part0/python_setup_ubuntu.md)
   * [Setting up a Golang development environment - Ubuntu Linux](part0/go_setup_ubuntu.md)
   
-* [Part 1- Problem Solving: How to approach a problem with programming](part1/README.md) [**TODO**]
-  * [Problem solving with programming: Example 1](part1/example1.md) [**TODO**]
+* [Part 1- Problem Solving: How to approach a problem with programming](part1/README.md)
 
 * [Appendix A - Other Tutorials, Challenges, and Useful Libraries](appendixA/README.md)
 
