@@ -1,9 +1,9 @@
 # Part 1- Problem Solving: How to approach a problem with programming
-**TODO**
+Each of the follow examples will show my thought process behind solving a problem as well as the code related to solving problems. Each example will a problem that you might commonly run into in your day to day work. Each example will attempt to include:
 
-## TODO
-* Include simple example of programming/automation
-* Example should leverage both languages
-* Example should highlight thought process
-* Example should highlight development steps
-* Example should highlight consideration and usage of 3rd party libraries
+* Any development steps
+* Common missteps, or things that caught me off guard
+* Every programming language supported by these guides
+* The thought process on working with the data provided
+* The thought process around which libraries to use, if any
+* The thought process of how to present or store the data, if applicable
