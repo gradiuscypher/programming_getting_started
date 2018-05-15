@@ -12,6 +12,8 @@ This is a collection of live documents and content will be updated as needed.
   * [Setting up a Golang development environment - Ubuntu Linux](part0/go_setup_ubuntu.md)
   
 * [Part 1- Problem Solving: How to approach a problem with programming](part1/README.md)
+  * [Working with APIs and Python `requests`](working_with_apis.md)
+  * [Building Custom Maltego Transforms](maltego_transforms.md)
 
 * [Appendix A - Other Tutorials, Challenges, and Useful Libraries](appendixA/README.md)
 
