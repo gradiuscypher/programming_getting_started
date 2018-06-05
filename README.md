@@ -14,8 +14,7 @@ This is a collection of live documents and content will be updated as needed.
 * [Setting up a Golang development environment - Ubuntu Linux](part0/go_setup_ubuntu.md)
 
 ### Part 1 - Problem Solving: How to approach a problem with programming
-* [Introduction and Examples List](part1/README.md)
-* [Problem Solving - Getting started and planning your attack](part1/problem_solving_getting_started.md)
+* [Problem Solving - Getting started and planning your attack](part1/README.md)
 
 ### Part 2 - Examples
 * [Working with APIs and Python `requests`](part2/working_with_apis.md)
