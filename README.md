@@ -7,11 +7,14 @@ This is a collection of live documents and content will be updated as needed.
 
 ## Table of Contents
 
-* [Part 0 - Introduction and Getting Started](part0/README.md)
+* Part 0 - Introduction and Getting Started
+  * [Introduction to this project](part0/README.md)
   * [Setting up a Python development environment - Ubuntu Linux](part0/python_setup_ubuntu.md)
   * [Setting up a Golang development environment - Ubuntu Linux](part0/go_setup_ubuntu.md)
   
-* [Part 1- Problem Solving: How to approach a problem with programming](part1/README.md)
+* Part 1- Problem Solving: How to approach a problem with programming
+  * [Part 1 Introduction and Example Table of Contents](part1/README.md)
+  * [Problem Solving - Getting started and planning your attack](part1/problem_solving_getting_started.md)
   * [Working with APIs and Python `requests`](part1/working_with_apis.md)
   * [Building Custom Maltego Transforms](part1/maltego_transforms.md)
 
