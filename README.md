@@ -19,7 +19,6 @@ This is a collection of live documents and content will be updated as needed.
 ### Part 2 - Examples
 * [Working with APIs and Python `requests`](part2/working_with_apis.md)
 * [Building Custom Maltego Transforms](part2/maltego_transforms.md)
-* [Posting to Webhooks](part2/posting_to_webhooks.md)
 
 ### Appendices
 * [Appendix A - Other Tutorials, Challenges, and Useful Libraries](appendixA/README.md)
