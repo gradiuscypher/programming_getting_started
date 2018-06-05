@@ -9,6 +9,7 @@ This is a collection of live documents and content will be updated as needed.
 
 ### Part 0 - Introduction and Getting Started
 * [Introduction to this project](part0/README.md)
+* [Introduction to this programming](part0/programming_introduction.md)
 * [Setting up a Python development environment - Ubuntu Linux](part0/python_setup_ubuntu.md)
 * [Setting up a Golang development environment - Ubuntu Linux](part0/go_setup_ubuntu.md)
 
