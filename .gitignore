@@ -1,0 +1,7 @@
+# Gradius Ignores
+*.conf
+*.log
+*.db
+*.pyc
+.idea/
+venv*/
