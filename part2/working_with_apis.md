@@ -27,5 +27,11 @@ TODO
 ## Shodan API
 TODO
 
+## censysio
+TODO
+
+## haveibeenpwned
+TODO
+
 ## Riot API
 TODO
