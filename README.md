@@ -14,6 +14,9 @@ Most importantly, stay focused on continued learning. Keeping your skills sharp 
 
 This document is only the start. After reading this, we'll go step by step solving some problems and providing examples along the way. Every step will be a building block to help you start solving your own problems with code.
 
+## Guided Tour - Getting Started
+For those of you who would like to follow a start to finish guide on getting started with programming, this is where to begin! Click **[this link](guided_tour/README.md)** to go to the first page in the guide.
+
 
 ## Table of Contents
 
