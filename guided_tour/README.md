@@ -37,5 +37,8 @@ Below are some projects and ideas of automation and programming. This should hel
 ## Programming Project TEMPNUM - Discord Chat Bot (Python)
 * [TODO] - insert link here.
 
+## Programming Project TEMPNUM - Playing with Markov Chains (Python)
+* [TODO] - insert link here.
+
 ## Programming Project TEMPNUM - Interacting with Web APIs
 * [TODO] - insert link here.
