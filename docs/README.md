@@ -1,5 +1,3 @@
-
-# Programming Getting Started
 A collection of documentation to help security and IT engineers get started with programming and automation. Feedback, corrections, content, and topic suggestions are appreciated and welcomed. 
 
 This is a collection of live documents and content will be updated as needed.
